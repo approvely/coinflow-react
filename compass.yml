@@ -1,0 +1,16 @@
+name: coinflow-react
+id: ari:cloud:compass:9aaad466-dd60-4c51-b90e-3808e9d24cc9:component/3ef21e65-2f5f-427b-b76f-f85cb839ded3/8c180f48-7ff1-4b51-b695-08724334e966
+description: Forked copy of cointflow-react
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/approvely/coinflow-react
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
